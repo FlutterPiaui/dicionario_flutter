@@ -31,7 +31,7 @@
 |[ReorderableListView](https://fluttercentral.com/Articles/Post/1161)|Permite que um item de um grupo seja arrastado para alterar sua ordem dentro desse grupo.|ion-reorder|--|
 |[]()||ion-router||
 |[SearchBar](https://flutterawesome.com/flutter-app-bar-and-search-widget-integrated/)|Campo de texto que pode ser usado para pesquisar em uma coleção.|ion-searchbar||
-|[]()||ion-segment|--|
+|--|--|ion-segment|--|
 |[DropDownField](https://pub.dev/packages/dropdownfield)|Quando um usuário toca na seleção, uma caixa de diálogo é exibida com todas as opções em uma lista grande e fácil de selecionar.|ion-select|--|
 |[carousel_slider ](https://pub.dev/packages/carousel_slider)|Contêiner de várias seções. Cada seção pode ser deslizada ou arrastada entre si.|ion-slides|--|
 |[TabBar](https://flutter.dev/docs/cookbook/design/tabs)|Exibem um grupo de botões relacionados em uma linha horizontal.|ion-tabs|--|
