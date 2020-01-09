@@ -1,5 +1,11 @@
-## DICION¡RIO DOS PRINCIPAIS WIDGETS FLUTTER
 
+## DICIONÁRIO DOS PRINCIPAIS WIDGETS FLUTTER
+
+  
+
+|Widget ou Package|Descrição|Similar Ionic|Similar React Native|
+|--|--|--|--|
+|||||
 |[ModalBottomSheet](https://github.com/IshanFx/flutter_bottom_sheet)|ModalBottomSheet é uma caixa de diálogo que exibe um conjunto de opções.|ion-action-sheet||
 |[AlertDialog](https://gist.github.com/NilsBacke/160c5fce13d36f7ee244cb5dcd5520c1)|AlertDialog é uma ferramenta útil que alerta o usuário do aplicativo. É um pop-up no meio da tela que coloca uma sobreposição no fundo. Geralmente, é usado para confirmar uma das ações potencialmente irreversíveis do usuário.|ion-alert||
 |[Badge](https://pub.dev/packages/badges)|Badges podem ser usados ​​para um marcador adicional para qualquer widget, por exemplo, mostrar vários itens em um carrinho de compras.|ion-badge||
@@ -34,18 +40,22 @@
 |[Switch](https://api.flutter.dev/flutter/material/Switch-class.html)|Alterar o estado de uma única opção, elas podem ser ativadas ou desativadas pressionando ou deslizando-as.|ion-toggle||
 |[AppBar](https://flutter.dev/docs/catalog/samples/basic-app-bar)|Barra de ferramentas|ion-toolbar||
 
-> **Elaborado por:**
+>  **Elaborado por:**
 > -
->- [Raphael Pontes](http://github.com/rkpontes)
+>-  [Raphael Pontes](http://github.com/rkpontes)
 
-> **Revisado por:**
-> - 
+  
+
+>  **Revisado por:**
+>  -
 > -
 
-> **Apoio:**
-> - 
-> - [Flutterando](https://github.com/Flutterando)
- 
-> **Colaboradores:**
-> - 
-> - 
+  
+
+>  **Apoio:**
+>  -
+>  -  [Flutterando](https://github.com/Flutterando)
+
+>  **Colaboradores:**
+>  -
+>  -
